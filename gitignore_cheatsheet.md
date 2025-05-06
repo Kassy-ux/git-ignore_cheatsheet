@@ -7,3 +7,4 @@
 | `.env`       | Ignore environment config file       | `.env`                 |
 | `*.tmp`      | Ignore temporary files               | `test.tmp`, `temp.tmp` |
 | `/build`     | Ignore the build folder at root only | `/build/index.html`   |
+
